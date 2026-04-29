@@ -105,3 +105,4 @@ export default function PredictionDashboard() {
   );
 }
 // This code defines a React component for a house price prediction app. It includes a form for inputting property features, a button to trigger the prediction, and displays the predicted price along with a bar chart of the input features. The UI is styled using Tailwind CSS for a modern look.
+// ......
